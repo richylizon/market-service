@@ -1,1 +1,2 @@
 saveProduct(Product p);
+deleteProduct(Product p);
